@@ -31,7 +31,7 @@ To run this game you and your opponent need access to the same blockchain. Eithe
 ## How To Install from the Repository
 1. Install Git
 2. and NodeJS (including NPM) on Your Computer
-3. Open a Terminal/Command Line and then `git clone https://github.com/tomw1808/blocktactoe.git"
+3. Open a Terminal/Command Line
 4. cd blocktactoe
 5. npm install
 6. npm install -g truffle
