@@ -46,5 +46,5 @@ To run this game you and your opponent need access to the same blockchain. Eithe
 
 ## Acknowledgments
 
-Special thanks to `Ravinder Deol` and `Thomas Wiesner` for their excellent instruction in the Udemy course Ethereum Game Development: Build a Game on the Blockchain.
+Special thanks to `Ravinder Deol` and `Thomas Wiesner` for their excellent instruction in the Udemy course.
 Their teaching and guidance provided the foundation and inspiration for this project.
