@@ -22,3 +22,22 @@ It demonstrates the entire process of developing, deploying, and interacting wit
 - **Wallet**: MetaMask  
 
 ---
+
+## How To Run This Game
+To run this game you and your opponent need access to the same blockchain. Either install MetaMask and choose the right network, or start your own blockchain node with go-ethereum or parity and connect to it.
+
+---
+
+## How To Install from the Repository
+1. Install Git
+2. and NodeJS (including NPM) on Your Computer
+3. Open a Terminal/Command Line and then `git clone https://github.com/tomw1808/blocktactoe.git"
+4. cd blocktactoe
+5. npm install
+6. npm install -g truffle
+7. npm install -g ganache-cli
+8. Open Ganache: ganache-cli
+9. Open a second Terminal/Command Line in the same folder and type in
+10. truffle migrate to deploy the smart contracts on Ganache
+11. npm run dev to start the webpack dev server
+12. Then open your browser
