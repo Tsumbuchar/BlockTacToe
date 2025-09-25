@@ -32,12 +32,19 @@ To run this game you and your opponent need access to the same blockchain. Eithe
 1. Install Git
 2. and NodeJS (including NPM) on Your Computer
 3. Open a Terminal/Command Line
-4. cd blocktactoe
-5. npm install
-6. npm install -g truffle
-7. npm install -g ganache-cli
-8. Open Ganache: ganache-cli
+4. `cd blocktactoe`
+5. `npm install`
+6. `npm install -g truffle`
+7. `npm install -g ganache-cli`
+8. Open Ganache: `ganache-cli`
 9. Open a second Terminal/Command Line in the same folder and type in
-10. truffle migrate to deploy the smart contracts on Ganache
-11. npm run dev to start the webpack dev server
+10. `truffle migrate` to deploy the smart contracts on Ganache
+11. `npm run dev` to start the webpack dev server
 12. Then open your browser
+
+---
+
+## Acknowledgments
+
+Special thanks to `Ravinder Deol` and `Thomas Wiesner` for their excellent instruction in the Udemy course Ethereum Game Development: Build a Game on the Blockchain.
+Their teaching and guidance provided the foundation and inspiration for this project.
