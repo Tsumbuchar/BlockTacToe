@@ -49,5 +49,5 @@ To run this game you and your opponent need access to the same blockchain. Eithe
 Special thanks to `Ravinder Deol` and `Thomas Wiesner` for their excellent instruction in the Udemy course.
 Their teaching and guidance provided the foundation and inspiration for this project.
 
-This project was built with the help of amazing open-source tools, including Truffle, Ganache, Web3.js, and Webpack.
+This project was built with the help of amazing open-source tools, including `Truffle`, `Ganache`, `Web3.js`, and `Webpack`.
 Many thanks to the developers and maintainers of these projects for making decentralized application development possible.
